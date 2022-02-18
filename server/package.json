@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "restapi": "^0.0.6"
+  }
+}
